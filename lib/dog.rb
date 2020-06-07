@@ -6,4 +6,6 @@ class Dog
     self.id ||= nil
     
   end
+  
+  
 end
